@@ -1,74 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Nouveau dossier\\ReactProject\\",
+  "WorkspaceRootPath": "C:\\GitHub\\React\\first_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\todo\\todo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\todo\\todo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\profile\\profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\profile\\profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\context\\usercontextprovider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\context\\usercontextprovider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\context\\usercontext.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\context\\usercontext.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\login\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\login\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\footer\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\footer\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\user\\user.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\user\\user.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\todoitem\\todoitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\todoitem\\todoitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\github\\github.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\github\\github.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\todoform\\todoform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\todoform\\todoform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\home\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\home\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\basiccomponents\\basiccomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\basiccomponents\\basiccomponent.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\about\\about.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\context\\todocontext.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\context\\todocontext.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\context\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\context\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\context\\theme.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\context\\theme.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\themetest\\themetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\themetest\\themetest.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\about\\about.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\about\\about.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\header\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\header\\header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\currencyconverter\\currencyconverter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\currencyconverter\\currencyconverter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\themebutton\\themebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\themebutton\\themebutton.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\inputbox\\inputbox.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\inputbox\\inputbox.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\user\\user.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\user\\user.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\hooks\\usecurrencyinfo.js||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\hooks\\usecurrencyinfo.js||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\projects\\nouveau dossier\\reactproject\\src\\components\\passwordgenerator\\passwordgenerator.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\passwordgenerator\\passwordgenerator.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|c:\\github\\react\\first_app\\src\\components\\card\\card.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C81CCE0F-E4F7-4789-9352-468B3C0D76EF}|reactproject.esproj|solutionrelative:src\\components\\card\\card.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,227 +78,226 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Profile.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Profile\\Profile.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Profile\\Profile.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Profile\\Profile.tsx",
-              "RelativeToolTip": "src\\components\\Profile\\Profile.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T11:55:38.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserContextProvider.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\context\\UserContextProvider.tsx",
-              "RelativeDocumentMoniker": "src\\context\\UserContextProvider.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\context\\UserContextProvider.tsx",
-              "RelativeToolTip": "src\\context\\UserContextProvider.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T11:43:27.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserContext.ts",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\context\\UserContext.ts",
-              "RelativeDocumentMoniker": "src\\context\\UserContext.ts",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\context\\UserContext.ts",
-              "RelativeToolTip": "src\\context\\UserContext.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T11:41:26.176Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T11:05:31.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Login\\Login.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Login\\Login.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Login\\Login.tsx",
-              "RelativeToolTip": "src\\components\\Login\\Login.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAALAAAA",
+              "Title": "TodoItem.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\TodoItem\\TodoItem.tsx",
+              "RelativeDocumentMoniker": "src\\components\\TodoItem\\TodoItem.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\TodoItem\\TodoItem.tsx",
+              "RelativeToolTip": "src\\components\\TodoItem\\TodoItem.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T11:29:43.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Github.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Github\\Github.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Github\\Github.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Github\\Github.tsx",
-              "RelativeToolTip": "src\\components\\Github\\Github.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T10:44:21.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\User\\User.tsx",
-              "RelativeDocumentMoniker": "src\\components\\User\\User.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\User\\User.tsx",
-              "RelativeToolTip": "src\\components\\User\\User.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T10:30:03.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "About.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\About\\About.tsx",
-              "RelativeDocumentMoniker": "src\\components\\About\\About.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\About\\About.tsx",
-              "RelativeToolTip": "src\\components\\About\\About.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T10:02:24.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Home.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Home\\Home.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Home\\Home.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Home\\Home.tsx",
-              "RelativeToolTip": "src\\components\\Home\\Home.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T09:57:30.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\main.tsx",
-              "RelativeDocumentMoniker": "src\\main.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\main.tsx",
-              "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T09:45:59.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Layout.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\Layout.tsx",
-              "RelativeDocumentMoniker": "src\\Layout.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\Layout.tsx",
-              "RelativeToolTip": "src\\Layout.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T09:40:03.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Footer.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Footer\\Footer.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Footer\\Footer.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Footer\\Footer.tsx",
-              "RelativeToolTip": "src\\components\\Footer\\Footer.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T09:37:51.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Header.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Header\\Header.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Header\\Header.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\Header\\Header.tsx",
-              "RelativeToolTip": "src\\components\\Header\\Header.tsx",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T09:36:17.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "useCurrencyInfo.js",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\hooks\\useCurrencyInfo.js",
-              "RelativeDocumentMoniker": "src\\hooks\\useCurrencyInfo.js",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\hooks\\useCurrencyInfo.js",
-              "RelativeToolTip": "src\\hooks\\useCurrencyInfo.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-02T07:29:01.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InputBox.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\InputBox\\InputBox.tsx",
-              "RelativeDocumentMoniker": "src\\components\\InputBox\\InputBox.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\InputBox\\InputBox.tsx",
-              "RelativeToolTip": "src\\components\\InputBox\\InputBox.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T07:01:46.038Z",
+              "WhenOpened": "2024-08-05T10:11:19.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "App.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\App.tsx",
-              "RelativeDocumentMoniker": "src\\App.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\App.tsx",
-              "RelativeToolTip": "src\\App.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "TodoForm.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\TodoForm\\TodoForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\TodoForm\\TodoForm.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\TodoForm\\TodoForm.tsx",
+              "RelativeToolTip": "src\\components\\TodoForm\\TodoForm.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T06:56:19.578Z",
+              "WhenOpened": "2024-08-05T10:11:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\Todo\\Todo.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Todo\\Todo.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\Todo\\Todo.tsx",
+              "RelativeToolTip": "src\\components\\Todo\\Todo.tsx",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T14:38:06.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\context\\index.ts",
+              "RelativeDocumentMoniker": "src\\context\\index.ts",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\context\\index.ts",
+              "RelativeToolTip": "src\\context\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T14:34:57.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoContext.ts",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\context\\TodoContext.ts",
+              "RelativeDocumentMoniker": "src\\context\\TodoContext.ts",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\context\\TodoContext.ts",
+              "RelativeToolTip": "src\\context\\TodoContext.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T14:24:40.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemeTest.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\ThemeTest\\ThemeTest.tsx",
+              "RelativeDocumentMoniker": "src\\components\\ThemeTest\\ThemeTest.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\ThemeTest\\ThemeTest.tsx",
+              "RelativeToolTip": "src\\components\\ThemeTest\\ThemeTest.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T14:12:03.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CurrencyConverter.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\CurrencyConverter\\CurrencyConverter.tsx",
-              "RelativeDocumentMoniker": "src\\components\\CurrencyConverter\\CurrencyConverter.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\CurrencyConverter\\CurrencyConverter.tsx",
-              "RelativeToolTip": "src\\components\\CurrencyConverter\\CurrencyConverter.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-02T14:08:48.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\User\\User.tsx",
+              "RelativeDocumentMoniker": "src\\components\\User\\User.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\User\\User.tsx",
+              "RelativeToolTip": "src\\components\\User\\User.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-02T06:55:10.438Z",
+              "WhenOpened": "2024-08-02T13:58:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\About\\About.tsx",
+              "RelativeDocumentMoniker": "src\\components\\About\\About.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\About\\About.tsx",
+              "RelativeToolTip": "src\\components\\About\\About.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T13:52:41.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasicComponent.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\BasicComponents\\BasicComponent.tsx",
+              "RelativeDocumentMoniker": "src\\components\\BasicComponents\\BasicComponent.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\BasicComponents\\BasicComponent.tsx",
+              "RelativeToolTip": "src\\components\\BasicComponents\\BasicComponent.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T13:52:14.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T13:38:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T13:23:42.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "theme.ts",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\context\\theme.ts",
+              "RelativeDocumentMoniker": "src\\context\\theme.ts",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\context\\theme.ts",
+              "RelativeToolTip": "src\\context\\theme.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T13:13:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThemeButton.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\ThemeButton\\ThemeButton.tsx",
+              "RelativeDocumentMoniker": "src\\components\\ThemeButton\\ThemeButton.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\ThemeButton\\ThemeButton.tsx",
+              "RelativeToolTip": "src\\components\\ThemeButton\\ThemeButton.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T13:08:47.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "PasswordGenerator.tsx",
-              "DocumentMoniker": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\PasswordGenerator\\PasswordGenerator.tsx",
-              "RelativeDocumentMoniker": "src\\components\\PasswordGenerator\\PasswordGenerator.tsx",
-              "ToolTip": "C:\\Projects\\Nouveau dossier\\ReactProject\\src\\components\\PasswordGenerator\\PasswordGenerator.tsx",
-              "RelativeToolTip": "src\\components\\PasswordGenerator\\PasswordGenerator.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Title": "Card.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\components\\Card\\Card.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Card\\Card.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\components\\Card\\Card.tsx",
+              "RelativeToolTip": "src\\components\\Card\\Card.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-01T15:52:30.087Z",
+              "WhenOpened": "2024-08-02T13:07:46.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Layout.tsx",
+              "DocumentMoniker": "C:\\GitHub\\React\\first_app\\src\\Layout.tsx",
+              "RelativeDocumentMoniker": "src\\Layout.tsx",
+              "ToolTip": "C:\\GitHub\\React\\first_app\\src\\Layout.tsx",
+              "RelativeToolTip": "src\\Layout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-02T09:40:03.615Z",
               "EditorCaption": ""
             }
           ]

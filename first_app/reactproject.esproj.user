@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:5173",
-  "webRoot": "C:\\Projects\\Nouveau dossier\\ReactProject"
+  "webRoot": "C:\\GitHub\\React\\first_app"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>

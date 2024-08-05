@@ -16,6 +16,12 @@
     <Folder Include="src\components\Home\" />
     <Folder Include="src\components\Github\" />
     <Folder Include="src\components\Login\" />
+    <Folder Include="src\components\Card\" />
+    <Folder Include="src\components\TodoItem\" />
+    <Folder Include="src\components\TodoForm\" />
+    <Folder Include="src\components\Todo\" />
+    <Folder Include="src\components\ThemeTest\" />
+    <Folder Include="src\components\ThemeButton\" />
     <Folder Include="src\components\Profile\" />
     <Folder Include="src\components\User\" />
     <Folder Include="src\components\PasswordGenerator\" />
